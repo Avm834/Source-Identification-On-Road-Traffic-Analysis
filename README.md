@@ -1,2 +1,3 @@
 # Source-Identification-On-Road-Traffic-Analysis
 This project focuses on developing an automated system for road accident detection, segmentation, and duration prediction using machine learning and deep learning techniques. 
+The system takes surveillance video as input, processes the frames through CNN-based feature extraction, and applies YOLOv8 for accurate detection of accidents and localization of affected areas. Following detection, the accident region is segmented for focused analysis. Finally, the model predicts the duration of the incident by analyzing temporal patterns in the video data. The goal is to create a unified, intelligent pipeline that enhances the speed and accuracy of traffic incident management, contributing to safer and smarter urban mobility.
